@@ -20,6 +20,8 @@ services:
     depends_on:
       - qdrant
     restart: unless-stopped
+    volumes:
+      - ./brain/docs:/app/brain/docs
 
 volumes:
   qdrant_storage:
