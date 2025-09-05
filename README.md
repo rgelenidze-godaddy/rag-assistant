@@ -5,7 +5,7 @@ A Retrieval-Augmented Generation (RAG) assistant that combines document knowledg
 ## Demonstration
 
 <div>
-  <img src="docs/1.jpg" alt="Demo Screenshot 1" width="45%" style="margin-right: 2%;">
+  <img src="docs/1.jpg" alt="Demo Screenshot 1" width="45%" style="margin-right: 10%;">
   <img src="docs/2.jpg" alt="Demo Screenshot 2" width="45%">
 </div>
 
