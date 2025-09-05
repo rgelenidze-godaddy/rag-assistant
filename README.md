@@ -2,6 +2,13 @@
 
 A Retrieval-Augmented Generation (RAG) assistant that combines document knowledge with user-taught facts to provide intelligent responses through a Telegram bot interface.
 
+## Demonstration
+
+<div>
+  <img src="docs/1.jpg" alt="Demo Screenshot 1" width="45%" style="margin-right: 2%;">
+  <img src="docs/2.jpg" alt="Demo Screenshot 2" width="45%">
+</div>
+
 ## Architecture
 
 The system uses a modular architecture with clear separation of concerns:
