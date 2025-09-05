@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-telegram-bot = "*"
+qdrant-client = "*"
+langchain = "*"
+langchain-community = "*"
+langchain-google-genai = "*"
+langchain-qdrant = "*"
+pymupdf = "*"
+neo4j = "*"
+sentence-transformers = "*"
+torch = "*"
+einops = "*"
+google-generativeai = "*"
+ipywidgets = "*"
+uvicorn = "*"
+langchain-neo4j = "*"
+fastapi = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

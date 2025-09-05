@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+
+# Virtual environments
+venv/
+.envrc
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm
+.idea/
+
+# Logs and output
+*.log
+*.out
+*.bak
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Data files
+*.pdf
+*.docx
+*.txt
+
+# Qdrant
+qdrant_storage/
+
+# Compiled
+*.so
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Exported requirements
+requirements.txt~
+
+# Misc
+*.swp
